@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fetch-dogs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/fetch-dogs/static/js/main.c1aeec2e.chunk.js",
+    "main.js.map": "/fetch-dogs/static/js/main.c1aeec2e.chunk.js.map",
+    "runtime-main.js": "/fetch-dogs/static/js/runtime-main.c920faec.js",
+    "runtime-main.js.map": "/fetch-dogs/static/js/runtime-main.c920faec.js.map",
+    "static/css/2.67123b20.chunk.css": "/fetch-dogs/static/css/2.67123b20.chunk.css",
+    "static/js/2.d6df92e3.chunk.js": "/fetch-dogs/static/js/2.d6df92e3.chunk.js",
+    "static/js/2.d6df92e3.chunk.js.map": "/fetch-dogs/static/js/2.d6df92e3.chunk.js.map",
+    "index.html": "/fetch-dogs/index.html",
+    "precache-manifest.f89a5b66675573f3f411a908595e1eb9.js": "/fetch-dogs/precache-manifest.f89a5b66675573f3f411a908595e1eb9.js",
+    "service-worker.js": "/fetch-dogs/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/fetch-dogs/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/fetch-dogs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d6df92e3.chunk.js.LICENSE": "/fetch-dogs/static/js/2.d6df92e3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c920faec.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.d6df92e3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c1aeec2e.chunk.js"
+  ]
+}
